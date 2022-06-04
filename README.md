@@ -1,5 +1,6 @@
-### Hi there 👋
+### Welcome 👋
 ## How to reach me:
+<a href="" target="_blank">點這裡</a>
 
 <!--
 **109403530/109403530** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
